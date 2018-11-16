@@ -4,7 +4,10 @@ Building the User Review Model with fastText (Text Classification)
 
 ### Blog Post: [http://kuldeepsinghsidhu.blogspot.com](http://kuldeepsinghsidhu.blogspot.com)
 
-Article: https://kuldeepsinghsidhu.blogspot.com/2018/11/building-user-review-model-with.html
+Articles: 
+https://kuldeepsinghsidhu.blogspot.com/2018/11/building-user-review-model-with.html
+
+https://kuldeepsinghsidhu.blogspot.com/2018/11/text-classification.html
 
 # SetUp
 
